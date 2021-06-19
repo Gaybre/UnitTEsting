@@ -75,3 +75,5 @@ test('Porbar async/await', async () => {
 // afterAll(() => console.log('Despues de todas las pruebas'))
 // beforeEach(() => console.log('Antes de cada prueba'))
 // beforeAll(() => console.log('Antes de todas las pruebas'))
+
+// "test:watch": "jest --watch"    ------ este script permite escuchar cambios y realizar pruebas más rápido
